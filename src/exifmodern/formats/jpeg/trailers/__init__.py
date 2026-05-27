@@ -1,0 +1,1 @@
+"""JPEG trailer metadata readers."""

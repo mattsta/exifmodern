@@ -1,0 +1,1 @@
+"""Sigma-specific metadata adapters."""

@@ -1,0 +1,1 @@
+"""Pentax format adapters."""

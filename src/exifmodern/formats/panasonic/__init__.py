@@ -1,0 +1,1 @@
+"""Panasonic-specific metadata adapters."""

@@ -1,0 +1,1 @@
+"""Kodak metadata format support."""

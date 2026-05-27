@@ -1,0 +1,1 @@
+"""PhotoMechanic metadata readers."""

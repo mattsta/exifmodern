@@ -1,0 +1,1 @@
+"""EXIF owner-specific adapters."""

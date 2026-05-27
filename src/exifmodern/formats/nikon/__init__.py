@@ -1,0 +1,1 @@
+"""Nikon maker-note adapters."""

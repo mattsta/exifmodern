@@ -1,0 +1,1 @@
+"""Qualcomm-specific metadata readers."""

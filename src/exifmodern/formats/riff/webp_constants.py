@@ -1,0 +1,12 @@
+"""Read-safe RIFF/WebP constants shared by readers and writers."""
+
+WEBP_FORM_TYPE = b"WEBP"
+EXIF_CHUNK_ID = b"EXIF"
+XMP_CHUNK_ID = b"XMP "
+INCORRECT_XMP_CHUNK_ID = b"XMP\x00"
+ICC_CHUNK_ID = b"ICCP"
+VP8X_CHUNK_ID = b"VP8X"
+VP8_CHUNK_ID = b"VP8 "
+VP8L_CHUNK_ID = b"VP8L"
+ANIM_CHUNK_ID = b"ANIM"
+ALPH_CHUNK_ID = b"ALPH"

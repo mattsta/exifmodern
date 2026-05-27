@@ -1,0 +1,1 @@
+"""XMP structure adapter modules."""

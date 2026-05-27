@@ -1,0 +1,1 @@
+"""Wildcard write expansion adapters."""
